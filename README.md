@@ -1,4 +1,4 @@
-# ffmgep-webp
+# ffmpeg-webp
 
 ffmpeg build with webp
 
